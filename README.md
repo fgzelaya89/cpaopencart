@@ -15,6 +15,9 @@ Este proyecto tiene como objetivo automatizar pruebas en la página web de OpenC
 
 La versión actual de la automatización es la 1.0. Esta versión representa el estado actual del proyecto y se utilizará para realizar pruebas en la página web de OpenCart.
 
+## Proyecto feature
+- **AltaUsuario**: Validar y ferificar que la pagina "Register" este dando de alta a los usuarios nuevo.
+
 ## Configuración del Proyecto
 
 Para ejecutar las pruebas de este proyecto en tu entorno local, sigue estos pasos:
