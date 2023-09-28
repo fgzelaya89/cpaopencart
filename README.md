@@ -19,7 +19,7 @@ La versión actual de la automatización es la 1.0. Esta versión representa el 
 
 Para ejecutar las pruebas de este proyecto en tu entorno local, sigue estos pasos:
 
-1. Clona el repositorio desde [URL del Repositorio](URL_DEL_REPOSITORIO).
+1. Clona el repositorio desde [URL del Repositorio]([URL_DEL_REPOSITORIO](https://github.com/fgzelaya89/cpaopencart.git)).
 
 2. Asegúrate de tener instalado Java en tu máquina.
 
