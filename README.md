@@ -3,13 +3,13 @@
 Este proyecto de automatización de pruebas utiliza las siguientes tecnologías:
 
 - **Lenguaje de Programación**: Java
-- **Herramienta de Automatización**: Selenium WebDriver
-- **Framework de Pruebas BDD**: Cucumber
+- **Herramienta de Automatización**: Selenium WebDriver (versión 4.10.0)
+- **Framework de Pruebas BDD**: Cucumber (versión 4.2.6)
 - **Navegador de Pruebas**: Google Chrome
 
 ## Descripción del Proyecto
 
-Este proyecto tiene como objetivo automatizar pruebas en la página web de OpenCart, específicamente en la URL [https://opencart.abstracta.us/](https://opencart.abstracta.us/). Utilizamos Java como lenguaje de programación, Selenium WebDriver como herramienta de automatización y Cucumber como framework de pruebas BDD para crear escenarios de prueba legibles y mantenibles.
+Este proyecto tiene como objetivo automatizar pruebas en la página web de OpenCart, específicamente en la URL [https://opencart.abstracta.us/](https://opencart.abstracta.us/). Utilizamos Java como lenguaje de programación, Selenium WebDriver (versión 4.10.0) como herramienta de automatización y Cucumber como framework de pruebas BDD para crear escenarios de prueba legibles y mantenibles.
 
 ## Versión de la Automatización
 
