@@ -1,7 +1,7 @@
 Feature: Alta de nuevo usuario opencart
 
-  @Test
-  Scenario Outline: Search cats
+  @AltaUsuario
+  Scenario Outline: Alta de Usuario
     Given ingresamo al sitio "<url>"
     And hacemos clic en "My Account"
     And hacemos clic en "Register"

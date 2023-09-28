@@ -1,4 +1,4 @@
-package Steeps;
+package Steps;
 
 import Config.Properties;
 import PageObject.HomePage;
@@ -11,7 +11,6 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import org.junit.Assert;
 import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
